@@ -21,7 +21,7 @@ headers = {
 }
 
 params = {
-    'sls_tracking_number': 'SPXVN04842113686B|173194944744226b7d4e41bdfaaff330ae377c1b13f322da6ff99b858fb2ec48a875201490',
+    'sls_tracking_number': 'SPXVN04842113686B|1731949825ed30c9e1c3e17f7ab6db22962369c4f217898f2fee26c9a87bead74d7513e26a',
 }
 from time import sleep
 
