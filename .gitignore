@@ -294,4 +294,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+*.html
+*.png
+*.jpg
 
